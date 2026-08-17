@@ -32,3 +32,6 @@ Tailwind CSS (browser build via CDN)
 <model-viewer> by Google
 Baloo 2 (Google Fonts)
 polycam for image to 3d
+
+
+link to demo: https://ar-menu-rho-nine.vercel.app/
